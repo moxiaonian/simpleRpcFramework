@@ -6,3 +6,6 @@
 
 ## 介绍
 使用socket IO流来进行server和client的通信，也就是rpc应用中服务提供方和服务消费方，端对端对等，用端口号直接进行通信。
+
+## 运行方法
+先运行provider的main方法,然后运行consumer的main方法
